@@ -1,0 +1,38 @@
++-------+-----+-----------+---------+
+|movieID|count|sum(rating)|avgRating|
++-------+-----+-----------+---------+
+|    408|  112|        503|    4.491|
+|    318|  298|       1331|    4.466|
+|    169|  118|        527|    4.466|
+|    483|  243|       1083|    4.457|
+|     64|  283|       1258|    4.445|
+|    603|  209|        917|    4.388|
+|     12|  267|       1171|    4.386|
+|     50|  583|       2541|    4.358|
+|    178|  125|        543|    4.344|
+|    134|  198|        850|    4.293|
+|    427|  219|        940|    4.292|
+|    357|  264|       1133|    4.292|
+|     98|  390|       1673|     4.29|
+|    480|  179|        767|    4.285|
+|    127|  413|       1769|    4.283|
+|    285|  162|        691|    4.265|
+|    272|  198|        844|    4.263|
+|    657|  131|        558|     4.26|
+|    474|  194|        825|    4.253|
+|    174|  420|       1786|    4.252|
++-------+-----+-----------+---------+
+only showing top 20 rows
+
+
+
+Close Shave, A (1995): Avg Rating: 4.491, Num Ratings: 112
+Schindler's List (1993): Avg Rating: 4.466, Num Ratings: 298
+Wrong Trousers, The (1993): Avg Rating: 4.466, Num Ratings: 118
+Casablanca (1942): Avg Rating: 4.457, Num Ratings: 243
+Shawshank Redemption, The (1994): Avg Rating: 4.445, Num Ratings: 283
+Rear Window (1954): Avg Rating: 4.388, Num Ratings: 209
+Usual Suspects, The (1995): Avg Rating: 4.386, Num Ratings: 267
+Star Wars (1977): Avg Rating: 4.358, Num Ratings: 583
+12 Angry Men (1957): Avg Rating: 4.344, Num Ratings: 125
+Citizen Kane (1941): Avg Rating: 4.293, Num Ratings: 198
